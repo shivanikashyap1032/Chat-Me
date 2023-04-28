@@ -15,7 +15,7 @@
 </p>
 
 
-<h3 align="center">Caht-Me</h3>
+<h3 align="center">Chat-Me</h3>
 
 ---
 
