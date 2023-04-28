@@ -132,7 +132,7 @@ Add notes about how to use the system.
 1) Install Node.js on your computer if you haven't already done so.
 
 2) Create a new React project using the create-react-app command-line tool:
-* npx create-react-app my-chat-app
+* npx create-react-app chat-me
 
 3) Navigate to the project directory
 * cd Chat-me
@@ -165,42 +165,6 @@ export default firebase;
 
 11) Start the React development server:
 npm start
-
-
-
-
-
-## 🚀 Deployment <a name = "deployment"></a>
-For this thing we need a 1.8 jdk install in your system.
-
-## here is the step to set 1.8 jdk in your system
-To set the JDK version to 1.8 in Eclipse follow these steps:
-
-1)Make sure that you have the JDK 1.8 installed on your system. You can download it from the official Oracle website.
-
-2)Open Eclipse and go to "Window" -> "Preferences".
-
-3)In the Preferences window, expand the "Java" folder and click on "Installed JREs".
-
-4)Click on the "Add" button to add a new JRE.
-
-5)In the "Add JRE" window, select "Standard VM" and click "Next".
-
-6)In the "JRE Definition" window, enter a name for the JRE (e.g., "JDK 1.8") and select the installation directory of the JDK 1.8.
-
-7)Click on "Finish" to add the new JRE.
-
-8)Select the newly added JRE in the "Installed JREs" window and click on the "Edit" button.
-
-9)In the "Edit JRE" window, click on the "Add External JARs" button and navigate to the "lib" directory of the JDK 1.8 installation.
-
-10)Select all the JAR files in the "lib" directory and click on "Open".
-
-11)Click on "Finish" to save the changes.
-
-12)Click on "OK" to close the Preferences window.
-That's it! You have successfully set the JDK version to 1.8 in Eclipse. Now you can create new projects and run existing ones using JDK 1.8.
-
 
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
