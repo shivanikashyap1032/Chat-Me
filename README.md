@@ -197,6 +197,7 @@ Link:- https://github.com/prit2810
 
 
 - References
+
 Here are some references that can help you get started with building a chat application using React and Firebase:
 
 1)Firebase documentation: The Firebase documentation is an excellent resource for learning how to use Firebase's real-time database and authentication features. You can find the documentation here: https://firebase.google.com/docs.
