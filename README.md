@@ -172,14 +172,14 @@ npm start
 ![bg width:50px](FlowChart.png)
 
 
-- [HTML,CSS] - Front-end
-- [Java,jsp,servlet] - Back-end
-- [MySql](https://www.mysql.com/) - Database
+- [HTML,CSS,JAVASCRIPT] - Front-end
+- [REACT] - Back-end
+
 - [Tomcat](https://tomcat.apache.org/) - localhost Server 
 
 
 ## ✍️ Authors <a name = "authors"></a>
-this project develped in a group of two person:-
+This project develped in a group of two person:-
 
 1)shivani kashyap
 Link:- https://github.com/shivanikashyap1032
@@ -190,25 +190,19 @@ Link:- https://github.com/prit2810
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Hat tip to anyone whose code was used
 
-1)As an student, I do not copy code from specific individuals or sources. Instead, I generate responses based on the algorithms and models trained on a vast corpus of data. However, it is always good practice to acknowledge the work of others if you have used their code or ideas in your own work. This helps to give credit where it's due and to avoid plagiarism. So, if you have used someone else's code, it is important to cite the source and give proper attribution.
+1) As an student, I do not copy code from specific individuals or sources. Instead, I generate responses based on the algorithms and models trained on a vast corpus of data. However, it is always good practice to acknowledge the work of others if you have used their code or ideas in your own work. This helps to give credit where it's due and to avoid plagiarism. So, if you have used someone else's code, it is important to cite the source and give proper attribution.
 
 - Inspiration
 
-1)Online Ordering System: You could build a web application that allows customers to order food online from the restaurant. The application could use servlets and JSPs to manage the ordering process, from selecting items from the menu to entering payment information.
-also you save your time insted of going hotel and book a table.
+1)Create a real-time chat application that allows users to communicate with each other in a fun and interactive way. Use React to build a responsive front-end interface and Firebase's real-time database to provide instant updates on message delivery. Implement user authentication to ensure secure communication, and add support for emojis and image sharing to make the chat experience more engaging. With these features, you can create a chat application that users will love to use!
+
 
 - References
+Here are some references that can help you get started with building a chat application using React and Firebase:
 
-1)Restaurant Management System using Java - This is a GitHub repository containing the source code for a restaurant management system using Java. It covers topics such as customer ordering, inventory management, and billing. 
-Link: https://github.com/madhavipatil6/Restaurant-Management-System-using-Java
+1)Firebase documentation: The Firebase documentation is an excellent resource for learning how to use Firebase's real-time database and authentication features. You can find the documentation here: https://firebase.google.com/docs.
 
-2)Restaurant Management System using JSP and Servlets - This is a GitHub repository that contains the source code for a restaurant management system using JSP and Servlets. It covers topics such as menu management, order processing, and billing. Link: https://github.com/sumitmukherjee13/Restaurant-Management-System-using-JSP-and-Servlets
+2)React documentation: The React documentation is also an essential resource for learning how to build a React application. You can find the documentation here: https://reactjs.org/docs/getting-started.html.
 
-3)Online Food Ordering System using JSP and Servlets - This is a GitHub repository that contains the source code for an online food ordering system using JSP and Servlets. It covers topics such as customer registration, menu management, and order processing. 
-Link: https://github.com/siddharthx/Online-Food-Ordering-System-using-JSP-and-Servlets
+3)React Firebase Chat Application Tutorial: This tutorial walks you through building a chat application using React, Firebase, and Material-UI. You can find the tutorial here: https://www.positronx.io/build-react-firebase-chat-app-tutorial/.
 
-4)"Web-based restaurant management system using JSP and Servlets" by Ramesh et al. - This research paper presents a web-based restaurant management system that is built using JSP and Servlets. The system covers various features such as menu management, order processing, billing, and customer feedback. 
-Link: https://www.researchgate.net/publication/282675147_Web-based_Restaurant_Management_System_using_JSP_and_Servlets
-
-5)"Web-based restaurant management system using JSP, Servlets, and MySQL" by Shakir et al. - This research paper presents a web-based restaurant management system using JSP, Servlets, and MySQL. The system includes features such as menu management, order processing, billing, and reporting. 
-Link: https://www.researchgate.net/publication/319432131_Web-Based_Restaurant_Management_System_Using_JSP_Servlets_and_MySQL
