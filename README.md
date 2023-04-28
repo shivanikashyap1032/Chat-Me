@@ -15,11 +15,11 @@
 </p>
 
 
-<h3 align="center">Restaurant</h3>
+<h3 align="center">Caht-Me</h3>
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> A chat application is a software program that allows users to communicate with each other in real-time through text-based messages, either one-on-one or in groups. Users typically create an account, add contacts or join channels, and can then send and receive messages, as well as share files and media. Many chat applications also offer additional features such as voice and video calls, emojis, and other forms of multimedia. Examples of popular chat applications include WhatsApp, Facebook Messenger, and Slack.
     <br> 
 </p>
 
