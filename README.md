@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="Restaurant.jpg" alt="Project logo"></a>
+ <img width=500px height=200px src="register.png" alt="Project logo"></a>
 </p>
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="Admin.jpg" alt="Project logo"></a>
+ <img width=500px height=200px src="Chatme.png" alt="Project logo"></a>
 </p>
 
 
@@ -163,18 +163,16 @@ firebase.initializeApp(firebaseConfig);
 export default firebase;
 
 11) Start the React development server:
-npm start
+* npm start
 
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![bg width:50px](FlowChart.png)
+![bg width:50px](flowcha.png)
 
 
-- [HTML,CSS,JAVASCRIPT] - Front-end
-- [REACT] - Back-end
-
-- [Tomcat](https://tomcat.apache.org/) - localhost Server 
+- [HTML,CSS,JAVASCRIPT,REACT] - Front-end
+- [FIREBASE] - Back-end
 
 
 ## ✍️ Authors <a name = "authors"></a>
