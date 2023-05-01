@@ -6,11 +6,6 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="register.png" alt="Project logo"></a>
-</p>
-
-<p align="center">
-  <a href="" rel="noopener">
  <img width=500px height=200px src="Chatme.png" alt="Project logo"></a>
 </p>
 
@@ -173,6 +168,22 @@ export default firebase;
 
 - [HTML,CSS,JAVASCRIPT,REACT] - Front-end
 - [FIREBASE] - Back-end
+
+
+## Snapshots  <a name = "Snapshots"></a>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="register.png" alt=""></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="Login.png" alt=""></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="1.png" alt=""></a>
+</p>
+
 
 
 ## ✍️ Authors <a name = "authors"></a>
