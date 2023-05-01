@@ -20,6 +20,7 @@
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Flow Chart](#flowchart)
+- [SnapShots](#Snapshots)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
